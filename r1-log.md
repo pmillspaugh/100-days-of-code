@@ -8,6 +8,8 @@ The log of my #100DaysOfCode challenge. Started on Monday, January 4, 2021.
 
 Set up UI for Scrabble app
 
-<!-- TODO -->
-
 ### R1D2
+
+Completed freeCodeCamp JavaScript calculator using React
+
+<!-- TODO -->

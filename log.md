@@ -10,9 +10,29 @@
 
 1. https://github.com/pmillspaugh/scrabble
 
+### Day 2: Tuesday, January 5, 2021
+
+**Today's Progress**: Completed freeCodeCamp JavaScript calculator using React
+
+**Thoughts**: Practiced lifting state up in React to pass information between components. Code is a bit messy - could refactor to implement more elegant solutions where possible.
+
+**Link(s) to work**
+
+1. https://codepen.io/pmillspaugh/pen/rNMdWOe
+
 <!-- TODO -->
 
-### Day 2: Tuesday, January 5, 2021
+### Day 3: Wednesday, January 6, 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1.
+
+### Day []: [weekday], [month] [day], 2021
 
 **Today's Progress**:
 
