@@ -20,17 +20,17 @@
 
 1. https://codepen.io/pmillspaugh/pen/rNMdWOe
 
-<!-- TODO -->
-
 ### Day 3: Wednesday, January 6, 2021
 
-**Today's Progress**:
+**Today's Progress**: Completed freeCodeCamp 25 + 5 Clock using React
 
-**Thoughts**:
+**Thoughts**: Got more comfortable with React hooks, including employing useRef for the first time. Decent grasp of the React basics, so I want to go a layer deeper (e.g. learn more hooks).
 
 **Link(s) to work**
 
-1.
+1. https://codepen.io/pmillspaugh/pen/bGwKVeb
+
+<!-- TODO -->
 
 ### Day []: [weekday], [month] [day], 2021
 

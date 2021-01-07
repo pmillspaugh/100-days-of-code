@@ -12,4 +12,8 @@ Set up UI for Scrabble app
 
 Completed freeCodeCamp JavaScript calculator using React
 
+### R1D3
+
+Completed freeCodeCamp 25 + 5 Clock using React
+
 <!-- TODO -->
