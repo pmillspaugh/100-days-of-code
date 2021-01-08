@@ -30,6 +30,16 @@
 
 1. https://codepen.io/pmillspaugh/pen/bGwKVeb
 
+### Day 4: Thursday, January 7, 2021
+
+**Today's Progress**: Completed freeCodeCamp data visualization with d3 and JSON APIs / AJAX modules, almost finished D3 Bar Chart project
+
+**Thoughts**: Got more comfortable with fetch requests and json, but definitely need more practice. Just scratching the surface with d3
+
+**Link(s) to work**
+
+1. https://codepen.io/pmillspaugh/pen/yLaEZKW
+
 <!-- TODO -->
 
 ### Day []: [weekday], [month] [day], 2021

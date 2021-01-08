@@ -16,4 +16,8 @@ Completed freeCodeCamp JavaScript calculator using React
 
 Completed freeCodeCamp 25 + 5 Clock using React
 
+### R1D4
+
+Completed freeCodeCamp data visualization with d3 and JSON APIs / AJAX modules, almost finished D3 Bar Chart project
+
 <!-- TODO -->
