@@ -20,4 +20,12 @@ Completed freeCodeCamp 25 + 5 Clock using React
 
 Completed freeCodeCamp data visualization with d3 and JSON APIs / AJAX modules, almost finished D3 Bar Chart project
 
+### R1D5
+
+Completed D3 Bar Chart and D3 Scatter Plot FCC projects
+
+### R1D6
+
+Completed FCC d3 heat map project
+
 <!-- TODO -->

@@ -40,6 +40,27 @@
 
 1. https://codepen.io/pmillspaugh/pen/yLaEZKW
 
+### Day 5: Friday, January 8, 2021
+
+**Today's Progress**: Completed D3 Bar Chart and D3 Scatter Plot FCC projects
+
+**Thoughts**: Posted to an online forum for the first time, which felt good. Posted about a d3 update on the FCC forum in case others were still struggling with the same issue. The developer community is awesome, so I'm excited to get more involved.
+
+**Link(s) to work**
+
+1. https://codepen.io/pmillspaugh/pen/yLaEZKW
+2. https://codepen.io/pmillspaugh/pen/YzGjZvz
+
+### Day 6: Saturday, January 10, 2021
+
+**Today's Progress**: Completed FCC d3 heat map project
+
+**Thoughts**: Got more comfortable working with Date objects. Used d3 legend, time scale, and sequential color scale
+
+**Link(s) to work**
+
+1. https://codepen.io/pmillspaugh/pen/XWjBzWX
+
 <!-- TODO -->
 
 ### Day []: [weekday], [month] [day], 2021
