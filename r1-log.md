@@ -28,4 +28,8 @@ Completed D3 Bar Chart and D3 Scatter Plot FCC projects
 
 Completed FCC d3 heat map project
 
+### R1D7
+
+Connected Scrabble app to Merriam-Webster Dictionary API
+
 <!-- TODO -->

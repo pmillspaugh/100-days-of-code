@@ -61,6 +61,16 @@
 
 1. https://codepen.io/pmillspaugh/pen/XWjBzWX
 
+### Day 7: Sunday, January 10, 2021
+
+**Today's Progress**: Connected Scrabble app to Merriam-Webster Dictionary API
+
+**Thoughts**: Good practice fetching data from an API
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/scrabble
+
 <!-- TODO -->
 
 ### Day []: [weekday], [month] [day], 2021
