@@ -73,6 +73,30 @@
 
 <!-- TODO -->
 
+### Day 8: Monday, January 11, 2021
+
+**Today's Progress**: Worked on Scrabble app, adding drag and drop event handlers for the tiles
+
+**Thoughts**: Spent a while working through drag and drop using DOM event listeners but ran into trouble given conflict with React virtual DOM
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/scrabble
+
+<!-- TODO -->
+
+### Day []: [weekday], [month] [day], 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1.
+
+<!-- TODO -->
+
 ### Day []: [weekday], [month] [day], 2021
 
 **Today's Progress**:

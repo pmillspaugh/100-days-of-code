@@ -32,4 +32,8 @@ Completed FCC d3 heat map project
 
 Connected Scrabble app to Merriam-Webster Dictionary API
 
+### R1D8
+
+Worked on Scrabble app, adding drag and drop event handlers for the tiles
+
 <!-- TODO -->
