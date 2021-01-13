@@ -71,8 +71,6 @@
 
 1. https://github.com/pmillspaugh/scrabble
 
-<!-- TODO -->
-
 ### Day 8: Monday, January 11, 2021
 
 **Today's Progress**: Worked on Scrabble app, adding drag and drop event handlers for the tiles
@@ -83,17 +81,16 @@
 
 1. https://github.com/pmillspaugh/scrabble
 
-<!-- TODO -->
+### Day 9 Tuesday, January 12, 2021
 
-### Day []: [weekday], [month] [day], 2021
-
-**Today's Progress**:
+**Today's Progress**: Figuring out how to use React DnD in Scrabble app for drag and drop. Started FCC D3 Choropleth Map.
 
 **Thoughts**:
 
 **Link(s) to work**
 
-1.
+1. https://github.com/pmillspaugh/scrabble
+2. https://codepen.io/pmillspaugh/pen/dypgveQ
 
 <!-- TODO -->
 

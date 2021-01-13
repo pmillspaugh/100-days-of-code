@@ -36,4 +36,8 @@ Connected Scrabble app to Merriam-Webster Dictionary API
 
 Worked on Scrabble app, adding drag and drop event handlers for the tiles
 
+### R1D9
+
+Figuring out how to use React DnD in Scrabble app for drag and drop. Started FCC D3 Choropleth Map.
+
 <!-- TODO -->
