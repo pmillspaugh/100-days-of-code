@@ -92,6 +92,17 @@
 1. https://github.com/pmillspaugh/scrabble
 2. https://codepen.io/pmillspaugh/pen/dypgveQ
 
+### Day 10: Wednesday, January 13, 2021
+
+**Today's Progress**: Completed FCC D3 Choropleth Map with added search bar and zoom features
+
+**Thoughts**: Improved understanding of D3, but only scratching the surface there. Would like to create more maps and charts using d3 with publicly available data
+
+**Link(s) to work**
+
+1. https://codepen.io/pmillspaugh/pen/dypgveQ
+
+
 <!-- TODO -->
 
 ### Day []: [weekday], [month] [day], 2021

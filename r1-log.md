@@ -38,6 +38,10 @@ Worked on Scrabble app, adding drag and drop event handlers for the tiles
 
 ### R1D9
 
-Figuring out how to use React DnD in Scrabble app for drag and drop. Started FCC D3 Choropleth Map.
+Figuring out how to use React DnD in Scrabble app for drag and drop. Started FCC D3 Choropleth Map
+
+### R1D10
+
+Completed FCC D3 Choropleth Map with added search bar and zoom features
 
 <!-- TODO -->
