@@ -47,3 +47,7 @@ Completed FCC D3 Choropleth Map with added search bar and zoom features
 ### R1D11
 
 Completed FCC treemap project. Started non-prophet e-commerce website. Started FCC APIs and microservices certification (completed npm module)
+
+### R1D12
+
+Completed FCC npm, Node.js & Express, and MongoDB & Mongoose tutorials. Added a bit to shell of non-prophet website.

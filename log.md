@@ -112,3 +112,13 @@
 
 1. https://codepen.io/pmillspaugh/pen/wvzQPjj
 2. https://github.com/pmillspaugh/non-prophet
+
+### Day 12: Friday, January 15, 2021
+
+**Today's Progress**: Completed FCC npm, Node.js & Express, and MongoDB & Mongoose tutorials. Added a bit to shell of non-prophet website
+
+**Thoughts**: A lot to learn about the back-end and lots of practice. Will be helpful for non-prophet website
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
