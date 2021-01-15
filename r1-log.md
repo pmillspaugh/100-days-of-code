@@ -44,4 +44,6 @@ Figuring out how to use React DnD in Scrabble app for drag and drop. Started FCC
 
 Completed FCC D3 Choropleth Map with added search bar and zoom features
 
-<!-- TODO -->
+### R1D11
+
+Completed FCC treemap project. Started non-prophet e-commerce website. Started FCC APIs and microservices certification (completed npm module)

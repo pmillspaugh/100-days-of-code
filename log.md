@@ -102,15 +102,13 @@
 
 1. https://codepen.io/pmillspaugh/pen/dypgveQ
 
+### Day 11: Thursday, January 14, 2021
 
-<!-- TODO -->
+**Today's Progress**: Completed FCC treemap project. Started non-prophet e-commerce website. Started FCC APIs and microservices certification (completed npm module)
 
-### Day []: [weekday], [month] [day], 2021
-
-**Today's Progress**:
-
-**Thoughts**:
+**Thoughts**: D3 is such a big world to explore - very cool and would require significant time investment to learn thoroughly.
 
 **Link(s) to work**
 
-1.
+1. https://codepen.io/pmillspaugh/pen/wvzQPjj
+2. https://github.com/pmillspaugh/non-prophet
