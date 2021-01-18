@@ -122,3 +122,33 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/non-prophet
+
+### Day 13: Saturday, January 16, 2021
+
+**Today's Progress**: Worked on non-prophet e-commerce website. Signed up with drop-shipper / fulfillment provider Printful
+
+**Thoughts**: Will take a lot of work to code the front-end & back-end, integrate with Printful API, integrate with payments API, and more
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
+
+### Day 14: Sunday, January 17, 2021
+
+**Today's Progress**: Worked on non-prophet e-commerce website. Bought a domain name, custom email, and signed up for web hosting
+
+**Thoughts**: Will take a lot of work to code the front-end & back-end, integrate with Printful API, integrate with payments API, and more
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
+
+### Day 15: Monday, January 18, 2021
+
+**Today's Progress**: Progress on non-prophet e-commerce website. Set up Firebase web hosting, connected to domain, continued building website
+
+**Thoughts**: Google Cloud Platform is very broad and complex, but Firebase is pretty simple to set up. Good progress but plenty of heavy lifting ahead
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet

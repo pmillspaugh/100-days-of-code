@@ -51,3 +51,15 @@ Completed FCC treemap project. Started non-prophet e-commerce website. Started F
 ### R1D12
 
 Completed FCC npm, Node.js & Express, and MongoDB & Mongoose tutorials. Added a bit to shell of non-prophet website.
+
+### R1D13
+
+Worked on non-prophet e-commerce website. Signed up with drop-shipper / fulfillment provider Printful
+
+### R1D14
+
+Worked on non-prophet e-commerce website. Bought a domain name, custom email, and signed up for web hosting
+
+### R1D15
+
+Progress on non-prophet e-commerce website. Set up Firebase web hosting, connected to domain, continued building website
