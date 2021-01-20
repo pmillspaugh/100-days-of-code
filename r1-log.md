@@ -63,3 +63,7 @@ Worked on non-prophet e-commerce website. Bought a domain name, custom email, an
 ### R1D15
 
 Progress on non-prophet e-commerce website. Set up Firebase web hosting, connected to domain, continued building website
+
+### R1D16
+
+Improved responsive design for non-prophet e-commerce website. Completed FCC timestamp API project

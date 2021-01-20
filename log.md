@@ -152,3 +152,13 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/non-prophet
+
+### Day 16: Tuesday, January 19, 2021
+
+**Today's Progress**: Improved responsive design for non-prophet e-commerce website. Completed FCC timestamp API project.
+
+**Thoughts**: Responsive design seems to be best done while creating a page, i.e. not going back after to fix.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
