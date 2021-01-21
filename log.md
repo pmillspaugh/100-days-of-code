@@ -162,3 +162,15 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/non-prophet
+2. https://boilerplate-project-timestamp.petermillspaugh.repl.co
+
+### Day 17: Wednesday, January 20, 2021
+
+**Today's Progress**: Added mobile menu and shopping cart for non-prophet e-commerce site. Completed FCC request header parser project.
+
+**Thoughts**: Even a relatively simple e-commerce app can be quite complex. Dealing with edge cases of user interaction takes time. I think I need to re-factor my functions to create more concise code and to adhere to DRY.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
+2. https://boilerplate-project-headerparser.petermillspaugh.repl.co
