@@ -174,3 +174,13 @@
 
 1. https://github.com/pmillspaugh/non-prophet
 2. https://boilerplate-project-headerparser.petermillspaugh.repl.co
+
+### Day 18: Thursday, January 21, 2021
+
+**Today's Progress**: Completed FCC URL Shortener project. Started on FCC Exercise tracker project. Went through CSX JavaScript modules.
+
+**Thoughts**: I need a lot more practice with the back-end – e.g. using Express, Node, MongoDB, Mongoose, etc. FCC projects have been helpful to start to understand HTTP request/response cycle better. CSX is serving as review and solidifying my foundational understanding of JavaScript. Helpful to see the big picture to become better at debugging, structuring, practicing DRY.
+
+**Link(s) to work**
+
+1. https://boilerplate-project-urlshortener.petermillspaugh.repl.co
