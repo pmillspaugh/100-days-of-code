@@ -67,3 +67,15 @@ Progress on non-prophet e-commerce website. Set up Firebase web hosting, connect
 ### R1D16
 
 Improved responsive design for non-prophet e-commerce website. Completed FCC timestamp API project
+
+### R1D17
+
+Added mobile menu and shopping cart for non-prophet e-commerce site. Completed FCC request header parser project.
+
+### R1D18
+
+**Today's Progress**: 
+
+### R1D19
+
+Completed FCC Exercise Tracker project and file metadata microservice. APIs and Microservices Certification complete. Worked on CSX Callbacks & Higher-order Functions challenges.

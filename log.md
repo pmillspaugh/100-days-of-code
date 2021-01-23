@@ -184,3 +184,14 @@
 **Link(s) to work**
 
 1. https://boilerplate-project-urlshortener.petermillspaugh.repl.co
+
+### Day 19: Friday, January 22, 2021
+
+**Today's Progress**: Completed FCC Exercise Tracker project and file metadata microservice. APIs and Microservices Certification complete. Worked on CSX Callbacks & Higher-order Functions challenges.
+
+**Thoughts**: Getting good practice with HTTP requests using Express, but a lot more practice needed. Embraced hard learning mindset on CSX eitherCallback challenge. Tearing apart the anatomy of a function is instructive.
+
+**Link(s) to work**
+
+1. https://boilerplate-project-exercisetracker.petermillspaugh.repl.co
+2. https://boilerplate-project-filemetadata.petermillspaugh.repl.co
