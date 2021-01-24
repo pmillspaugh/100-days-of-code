@@ -195,3 +195,13 @@
 
 1. https://boilerplate-project-exercisetracker.petermillspaugh.repl.co
 2. https://boilerplate-project-filemetadata.petermillspaugh.repl.co
+
+### Day 20: Saturday, January 23, 2021
+
+**Today's Progress**: Completed CSX higher-order functions and callback functions module.
+
+**Thoughts**: Embracing CSX hard learning is worthwhile. CSX is helping me build a stronger foundation in JavaScript fundamentals.
+
+**Link(s) to work**
+
+1. 
