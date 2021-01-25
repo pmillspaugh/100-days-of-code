@@ -198,10 +198,20 @@
 
 ### Day 20: Saturday, January 23, 2021
 
-**Today's Progress**: Completed CSX higher-order functions and callback functions module.
+**Today's Progress**: Completed CSX higher-order functions and callback functions module
 
 **Thoughts**: Embracing CSX hard learning is worthwhile. CSX is helping me build a stronger foundation in JavaScript fundamentals.
 
 **Link(s) to work**
 
-1. 
+1. N/A
+
+### Day 21: Sunday, January 24, 2021
+
+**Today's Progress**: Learned about closure on CSX. Set up non-prophet server.js file 
+
+**Thoughts**: CSX broke down closure very clearly. Challenges gave me a chance to practice what I know. Pseudocode and going over what is happening line by line is good practice for technical communication
+
+**Link(s) to work**
+
+1. N/A

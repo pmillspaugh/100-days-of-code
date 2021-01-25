@@ -79,3 +79,11 @@ Added mobile menu and shopping cart for non-prophet e-commerce site. Completed F
 ### R1D19
 
 Completed FCC Exercise Tracker project and file metadata microservice. APIs and Microservices Certification complete. Worked on CSX Callbacks & Higher-order Functions challenges.
+
+### R1D20
+
+Completed CSX higher-order functions and callback functions module
+
+### R1D21
+
+Learned about closure on CSX. Set up non-prophet server.js file
