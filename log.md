@@ -208,9 +208,29 @@
 
 ### Day 21: Sunday, January 24, 2021
 
-**Today's Progress**: Learned about closure on CSX. Set up non-prophet server.js file 
+**Today's Progress**: Learned about closure on CSX. Set up non-prophet server.js file
 
 **Thoughts**: CSX broke down closure very clearly. Challenges gave me a chance to practice what I know. Pseudocode and going over what is happening line by line is good practice for technical communication
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 22: Monday, January 25, 2021
+
+**Today's Progress**: Worked through FCC modules on Chai, Mocha, and Zombie.js. Completed CSX modules on recursion and asynchronicity in JavaScript.
+
+**Thoughts**: Very productive day – learned a lot through code challenges, reading, and lectures.
+
+**Link(s) to work**
+
+1. https://boilerplate-mochachai.petermillspaugh.repl.co
+
+### Day 23: Tuesday, January 26, 2021
+
+**Today's Progress**: Progressed on FCC Node/Express advanced module. Learning about authentication with Passport and template engines with Pug. Worked on CSX Object-Oriented Programming challenges. Attended an online CSX JavaScript event
+
+**Thoughts**:
 
 **Link(s) to work**
 

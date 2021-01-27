@@ -87,3 +87,11 @@ Completed CSX higher-order functions and callback functions module
 ### R1D21
 
 Learned about closure on CSX. Set up non-prophet server.js file
+
+### R1D22
+
+Worked through FCC modules on Chai, Mocha, and Zombie.js. Completed CSX modules on recursion and asynchronicity in JavaScript.
+
+### R1D23
+
+Progressed on FCC Node/Express advanced module. Learning about authentication with Passport and template engines with Pug. Worked on CSX Object-Oriented Programming challenges. Attended an online JavaScript event
