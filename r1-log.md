@@ -95,3 +95,7 @@ Worked through FCC modules on Chai, Mocha, and Zombie.js. Completed CSX modules 
 ### R1D23
 
 Progressed on FCC Node/Express advanced module. Learning about authentication with Passport and template engines with Pug. Worked on CSX Object-Oriented Programming challenges. Attended an online JavaScript event
+
+### R1D24
+
+Studied the differences between let/const/var, including hoisting. Continued to learn about OOP through CSX. Did a bit of the FCC Node/Express module

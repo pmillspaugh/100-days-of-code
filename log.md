@@ -230,7 +230,17 @@
 
 **Today's Progress**: Progressed on FCC Node/Express advanced module. Learning about authentication with Passport and template engines with Pug. Worked on CSX Object-Oriented Programming challenges. Attended an online CSX JavaScript event
 
-**Thoughts**:
+**Thoughts**: CSX OOP break down was very helpful. Event was good technical communication skills practice 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 24: Wednesday, January 27, 2021
+
+**Today's Progress**: Studied the differences between let/const/var, including hoisting. Continued to learn about OOP through CSX. Did a bit of the FCC Node/Express module
+
+**Thoughts**: There is a lot to Node and Express. Will take a lot more learning and practice to feel confident using them!
 
 **Link(s) to work**
 
