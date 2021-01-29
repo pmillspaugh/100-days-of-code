@@ -99,3 +99,14 @@ Progressed on FCC Node/Express advanced module. Learning about authentication wi
 ### R1D24
 
 Studied the differences between let/const/var, including hoisting. Continued to learn about OOP through CSX. Did a bit of the FCC Node/Express module
+
+### R1D25
+
+Completed FCC Node and Express modules. Learned about socket.io, bcrypt hashing function, OAuth, and Passport.
+
+### R1D26
+
+
+
+
+

@@ -230,7 +230,7 @@
 
 **Today's Progress**: Progressed on FCC Node/Express advanced module. Learning about authentication with Passport and template engines with Pug. Worked on CSX Object-Oriented Programming challenges. Attended an online CSX JavaScript event
 
-**Thoughts**: CSX OOP break down was very helpful. Event was good technical communication skills practice 
+**Thoughts**: CSX OOP break down was very helpful. Event was good technical communication skills practice
 
 **Link(s) to work**
 
@@ -245,3 +245,23 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 25: Thursday, January 28, 2021
+
+**Today's Progress**: Completed FCC Node and Express modules. Learned about socket.io, bcrypt hashing function, OAuth, and Passport.
+
+**Thoughts**: Node is very broad, so I really want to go a layer deeper to understand what's happening in the code and over servers.
+
+**Link(s) to work**
+
+1. https://boilerplate-advancednode.petermillspaugh.repl.co/
+
+### Day 26: Friday, January 29, 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**
+
+1.
