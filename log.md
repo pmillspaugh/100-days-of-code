@@ -258,10 +258,10 @@
 
 ### Day 26: Friday, January 29, 2021
 
-**Today's Progress**:
+**Today's Progress**: Started working on a Google Chrome extension. Learning about DOM manipulation
 
-**Thoughts**:
+**Thoughts**: Building an extension is good practice working with browser APIs
 
 **Link(s) to work**
 
-1.
+1. https://github.com/pmillspaugh/chrome-extension
