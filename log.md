@@ -265,3 +265,13 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/chrome-extension
+
+### Day 27: Saturday, January 30, 2021
+
+**Today's Progress**: Continued Chrome extension
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/chrome-extension

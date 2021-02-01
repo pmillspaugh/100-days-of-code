@@ -108,5 +108,7 @@ Completed FCC Node and Express modules. Learned about socket.io, bcrypt hashing 
 
 Started working on a Google Chrome extension. Learning about DOM manipulation
 
+### R1D27
 
+Continued Chrome extension
 
