@@ -270,7 +270,17 @@
 
 **Today's Progress**: Continued Chrome extension
 
-**Thoughts**: 
+**Thoughts**:
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/chrome-extension
+
+### Day 28: Sunday, January 31, 2021
+
+**Today's Progress**: Continued Chrome extension. Started reading Just JavaScript series.
+
+**Thoughts**: Just JavaScript is great for building mental models and uncovering gaps in my JS knowledge.
 
 **Link(s) to work**
 

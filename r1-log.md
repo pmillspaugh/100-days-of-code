@@ -112,3 +112,6 @@ Started working on a Google Chrome extension. Learning about DOM manipulation
 
 Continued Chrome extension
 
+### R1D28
+
+Continued Chrome extension. Started reading Just JavaScript series.
