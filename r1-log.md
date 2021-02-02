@@ -115,3 +115,7 @@ Continued Chrome extension
 ### R1D28
 
 Continued Chrome extension. Started reading Just JavaScript series.
+
+### R1D29
+
+Completed Chrome extension in CSX. Learned from Just JavaScript.

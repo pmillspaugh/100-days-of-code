@@ -285,3 +285,13 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/chrome-extension
+
+### Day 29: Monday, February 1, 2021
+
+**Today's Progress**: Completed Chrome extension in CSX. Learned from Just JavaScript.
+
+**Thoughts**: Although I finished the CSX Chrome extension project, I'd like to dig a bit deeper on Chrome extensions.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/chrome-extension
