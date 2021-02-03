@@ -295,3 +295,13 @@
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/chrome-extension
+
+### Day 30: Tuesday, February 2, 2021
+
+**Today's Progress**: Learned about inequality, properties, mutation, and prototypes in Just JavaScript. Learned about stack data structures, Big O notation, and searching/sorting algorithms in Emma Bostian's newsletter. Completed FCC Metric-Imperial Converter project.
+
+**Thoughts**: Practice is the best way to make hard/new things feel more approachable (e.g. testing). Just JavaScript is great. Email newsletters are a good way to learn in bite sized chunks.
+
+**Link(s) to work**
+
+1. https://repl.it/@PeterMillspaugh/boilerplate-project-metricimpconverter#.replit
