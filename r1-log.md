@@ -123,3 +123,7 @@ Completed Chrome extension in CSX. Learned from Just JavaScript.
 ### R1D30
 
 Learned about inequality, properties, mutation, and prototypes in Just JavaScript. Learned about stack data structures, Big O notation, and searching/sorting algorithms in Emma Bostian's newsletter. Completed FCC Metric-Imperial Converter project.
+
+### R1D31
+
+Worked on FCC issue tracker project. 

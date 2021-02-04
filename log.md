@@ -305,3 +305,13 @@
 **Link(s) to work**
 
 1. https://repl.it/@PeterMillspaugh/boilerplate-project-metricimpconverter#.replit
+
+### Day 31: Wednesday, February 3, 2021
+
+**Today's Progress**: Worked on FCC issue tracker project. 
+
+**Thoughts**: Getting practice setting up databases and CRUD using mongoose and express.
+
+**Link(s) to work**
+
+1. https://repl.it/@PeterMillspaugh/boilerplate-project-issuetracker#.replit
