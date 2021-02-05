@@ -315,3 +315,13 @@
 **Link(s) to work**
 
 1. https://repl.it/@PeterMillspaugh/boilerplate-project-issuetracker#.replit
+
+### Day 32: Thursday, February 4, 2021
+
+**Today's Progress**: Learned about closures and scope through CS JSHP.
+
+**Thoughts**: Need to review once, memoize, and other common use cases of closure to gain familiarity
+
+**Link(s) to work**
+
+1. N/A

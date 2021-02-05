@@ -127,3 +127,7 @@ Learned about inequality, properties, mutation, and prototypes in Just JavaScrip
 ### R1D31
 
 Worked on FCC issue tracker project. 
+
+### R1D32
+
+Learned about closures and scope through CS JSHP.
