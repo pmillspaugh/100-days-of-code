@@ -131,3 +131,43 @@ Worked on FCC issue tracker project.
 ### R1D32
 
 Learned about closures and scope through CS JSHP.
+
+### R1D33
+
+Worked on FCC issue tracker project with MongoDB/Mongoose and Chai. Started reading Eloquent JS
+
+### R1D34
+
+Worked on JS coding challenges on closure in CS Bin. Continued reading Eloquent JS
+
+### R1D35
+
+Closure in CS Bin
+
+### R1D36
+
+Continued reading Eloquent JS
+
+### R1D37
+
+CS Bin coding challenges
+
+### R1D38
+
+CS Bin coding challenges
+
+### R1D39
+
+CS Bin coding challenges on recursion
+
+### R1D40
+
+CS Bin coding challenges on recursion
+
+### R1D41
+
+Continued reading Eloquent JS
+
+### R1D42
+
+Continued reading Eloquent JS

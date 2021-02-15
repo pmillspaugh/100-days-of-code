@@ -325,3 +325,103 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 33: Friday, February 5, 2021
+
+**Today's Progress**: Worked on FCC issue tracker project with MongoDB/Mongoose and Chai. Started reading Eloquent JS
+
+**Thoughts**: Did not complete FCC project
+
+**Link(s) to work**
+
+1. https://repl.it/@PeterMillspaugh/boilerplate-project-issuetracker#README.md
+
+### Day 34: Saturday, February 6, 2021
+
+**Today's Progress**: Worked on JS coding challenges on closure in CS Bin. Continued reading Eloquent JS
+
+**Thoughts**: Feel pretty comfortable with concept of closure
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 35: Sunday, February 7, 2021
+
+**Today's Progress**: Closure in CS Bin
+
+**Thoughts**: Feeling solid on closure
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 36: Monday, February 8, 2021
+
+**Today's Progress**: Continued reading Eloquent JS
+
+**Thoughts**: Good reinforcement of JS fundamentals
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 37: Tuesday, February 9, 2021
+
+**Today's Progress**: CS Bin coding challenges
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 38: Wednesday, February 10, 2021
+
+**Today's Progress**: CS Bin coding challenges
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 39: Thursday, February 11, 2021
+
+**Today's Progress**: CS Bin coding challenges on recursion
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 40: Friday, February 12, 2021
+
+**Today's Progress**: CS Bin coding challenges on recursion
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 41: Saturday, February 13, 2021
+
+**Today's Progress**: Continued reading Eloquent JS
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 42: Sunday, February 14, 2021
+
+**Today's Progress**: Continued reading Eloquent JS
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
