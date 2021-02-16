@@ -425,3 +425,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 43: Monday, February 15, 2021
+
+**Today's Progress**: Worked on recursion in JavaScript
+
+**Thoughts**: Solid understanding of basic recursion, but the permutations question was difficult. Will practice more difficult recursion problemts
+
+**Link(s) to work**
+
+1. N/A

@@ -171,3 +171,7 @@ Continued reading Eloquent JS
 ### R1D42
 
 Continued reading Eloquent JS
+
+### R1D43
+
+Worked on recursion in JavaScript
