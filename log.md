@@ -430,7 +430,17 @@
 
 **Today's Progress**: Worked on recursion in JavaScript
 
-**Thoughts**: Solid understanding of basic recursion, but the permutations question was difficult. Will practice more difficult recursion problemts
+**Thoughts**: Solid understanding of basic recursion, but the permutations question was difficult. Will practice more difficult recursion problems
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 44: Tuesday, February 16, 2021
+
+**Today's Progress**: Completed coding challenges on recursion, closure, and higher-order & callback functions in CS Bin. Learned about variable/function hoisting in JS. Learned about the JavaScript interpreter.
+
+**Thoughts**: Productive day learning and reviewing JS fundamentals
 
 **Link(s) to work**
 

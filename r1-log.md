@@ -175,3 +175,7 @@ Continued reading Eloquent JS
 ### R1D43
 
 Worked on recursion in JavaScript
+
+### R1D44
+
+Completed coding challenges on recursion, closure, and higher-order & callback functions in CS Bin. Learned about variable/function hoisting in JS. Learned about the JavaScript interpreter.
