@@ -179,3 +179,7 @@ Worked on recursion in JavaScript
 ### R1D44
 
 Completed coding challenges on recursion, closure, and higher-order & callback functions in CS Bin. Learned about variable/function hoisting in JS. Learned about the JavaScript interpreter.
+
+### R1D45
+
+Learned about passing by reference versus value. Learned about the memory heap and call stack in the JavaScript engine. Learned about prototypal inheritance in JS.

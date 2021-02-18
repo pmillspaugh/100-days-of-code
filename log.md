@@ -308,7 +308,7 @@
 
 ### Day 31: Wednesday, February 3, 2021
 
-**Today's Progress**: Worked on FCC issue tracker project. 
+**Today's Progress**: Worked on FCC issue tracker project.
 
 **Thoughts**: Getting practice setting up databases and CRUD using mongoose and express.
 
@@ -370,7 +370,7 @@
 
 **Today's Progress**: CS Bin coding challenges
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -380,7 +380,7 @@
 
 **Today's Progress**: CS Bin coding challenges
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -390,7 +390,7 @@
 
 **Today's Progress**: CS Bin coding challenges on recursion
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -400,7 +400,7 @@
 
 **Today's Progress**: CS Bin coding challenges on recursion
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -410,7 +410,7 @@
 
 **Today's Progress**: Continued reading Eloquent JS
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -420,7 +420,7 @@
 
 **Today's Progress**: Continued reading Eloquent JS
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -441,6 +441,16 @@
 **Today's Progress**: Completed coding challenges on recursion, closure, and higher-order & callback functions in CS Bin. Learned about variable/function hoisting in JS. Learned about the JavaScript interpreter.
 
 **Thoughts**: Productive day learning and reviewing JS fundamentals
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 45: Wednesday, February 17, 2021
+
+**Today's Progress**: Learned about passing by reference versus value. Learned about the memory heap and call stack in the JavaScript engine. Learned about prototypal inheritance in JS.
+
+**Thoughts**: I am starting to see how JavaScript works under the hood, a lot more to learn.
 
 **Link(s) to work**
 
