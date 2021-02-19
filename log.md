@@ -455,3 +455,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 46: Thursday, February 18, 2021
+
+**Today's Progress**: Read Chapter 5 of Eloquent JS on HOF. Touched on abstraction, composition, object/array destructing, Unicode, and more. Learned about function prototype object, reviewed this keyword.
+
+**Thoughts**: Starting to get used to object/array destructuring - will continue to practice. Will have to practice and review the function prototype, `__proto__`, new, this, and classes.
+
+**Link(s) to work**
+
+1. N/A

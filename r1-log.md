@@ -183,3 +183,7 @@ Completed coding challenges on recursion, closure, and higher-order & callback f
 ### R1D45
 
 Learned about passing by reference versus value. Learned about the memory heap and call stack in the JavaScript engine. Learned about prototypal inheritance in JS.
+
+### R1D46
+
+Read Chapter 5 of Eloquent JS on HOF. Touched on abstraction, composition, object/array destructing, Unicode, and more. Learned about function prototype object, reviewed this keyword.
