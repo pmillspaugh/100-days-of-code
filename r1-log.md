@@ -187,3 +187,7 @@ Learned about passing by reference versus value. Learned about the memory heap a
 ### R1D46
 
 Read Chapter 5 of Eloquent JS on HOF. Touched on abstraction, composition, object/array destructing, Unicode, and more. Learned about function prototype object, reviewed this keyword.
+
+### R1D47
+
+Watched JSHP callbacks and higher-order functions. Started reading Eloquent JS chapter 6 on objects, including prototypes, this keyword, new keyword, encapsulation, the Function object, etc.

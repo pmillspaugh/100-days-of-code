@@ -465,3 +465,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 47: Friday, February 19, 2021
+
+**Today's Progress**: Watched JSHP callbacks and higher-order functions. Started reading Eloquent JS chapter 6 on objects, including prototypes, this keyword, new keyword, encapsulation, the Function object, etc.
+
+**Thoughts**: The layers of objects and prototypal inheritance with `__proto__` and prototype is complex, but I am filling in the puzzle pieces.
+
+**Link(s) to work**
+
+1. N/A
