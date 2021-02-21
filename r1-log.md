@@ -74,7 +74,7 @@ Added mobile menu and shopping cart for non-prophet e-commerce site. Completed F
 
 ### R1D18
 
-**Today's Progress**: 
+**Today's Progress**:
 
 ### R1D19
 
@@ -126,7 +126,7 @@ Learned about inequality, properties, mutation, and prototypes in Just JavaScrip
 
 ### R1D31
 
-Worked on FCC issue tracker project. 
+Worked on FCC issue tracker project.
 
 ### R1D32
 
@@ -191,3 +191,7 @@ Read Chapter 5 of Eloquent JS on HOF. Touched on abstraction, composition, objec
 ### R1D47
 
 Watched JSHP callbacks and higher-order functions. Started reading Eloquent JS chapter 6 on objects, including prototypes, this keyword, new keyword, encapsulation, the Function object, etc.
+
+### R1D48
+
+Worked on project with Bitcoin dataset using built-in array methods.

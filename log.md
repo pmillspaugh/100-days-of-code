@@ -475,3 +475,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 48: Saturday, February 20, 2021
+
+**Today's Progress**: Worked on project with Bitcoin dataset using built-in array methods.
+
+**Thoughts**: Feeling solid comfort level manipulating objects and arrays.
+
+**Link(s) to work**
+
+1. N/A
