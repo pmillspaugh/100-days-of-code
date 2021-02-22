@@ -485,3 +485,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 49: Sunday, February 21, 2021
+
+**Today's Progress**: Completed Eloquent JS chapter 6 on objects. Learned about Map and Set objects, iterators, symbols, getters/setters/static methods, and polymorphism.
+
+**Thoughts**: Eloquent JS objects chapter was a doozy. OOP will take more reading and repetition to get used to.
+
+**Link(s) to work**
+
+1. N/A

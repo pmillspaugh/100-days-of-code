@@ -195,3 +195,7 @@ Watched JSHP callbacks and higher-order functions. Started reading Eloquent JS c
 ### R1D48
 
 Worked on project with Bitcoin dataset using built-in array methods.
+
+## R1D49
+
+Completed Eloquent JS chapter 6 on objects. Learned about Map and Set objects, iterators, symbols, getters/setters/static methods, and polymorphism.
