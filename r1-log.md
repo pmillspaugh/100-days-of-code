@@ -199,3 +199,7 @@ Worked on project with Bitcoin dataset using built-in array methods.
 ## R1D49
 
 Completed Eloquent JS chapter 6 on objects. Learned about Map and Set objects, iterators, symbols, getters/setters/static methods, and polymorphism.
+
+## R1D50
+
+Completed Eloquent JS chapter 8 on error handling and began chapter 9 on regular expressions. Worked on recursion coding challenges.

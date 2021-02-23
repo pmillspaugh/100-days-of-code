@@ -495,3 +495,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 50: Monday, February 22, 2021
+
+**Today's Progress**: Completed Eloquent JS chapter 8 on error handling and began chapter 9 on regular expressions. Worked on recursion coding challenges.
+
+**Thoughts**: Good refresher on regular expressions and the Date object in Eloquent JS. Still need to work on more complex recursion problems, e.g. combinations and permutations.
+
+**Link(s) to work**
+
+1. N/A
