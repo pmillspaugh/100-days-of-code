@@ -505,3 +505,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 51: Tuesday, February 23, 2021
+
+**Today's Progress**: Worked on combination/permutation algorithm challenges. Wrapped up Eloquent JS chapter on regular expressions. Learned about measuring algorithm time complexity with Big O notation.
+
+**Thoughts**: Permutation and combination algorithms are tricky. Regex is also tricky. Time and space complexity is an interesting topic - a ton to learn there and get familiar with.
+
+**Link(s) to work**
+
+1. N/A

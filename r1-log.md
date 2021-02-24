@@ -203,3 +203,7 @@ Completed Eloquent JS chapter 6 on objects. Learned about Map and Set objects, i
 ## R1D50
 
 Completed Eloquent JS chapter 8 on error handling and began chapter 9 on regular expressions. Worked on recursion coding challenges.
+
+### R1D51
+
+Worked on combination/permutation algorithm challenges. Wrapped up Eloquent JS chapter on regular expressions. Learned about measuring algorithm time complexity with Big O notation.
