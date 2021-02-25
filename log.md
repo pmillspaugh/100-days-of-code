@@ -515,3 +515,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 52: Wednesday, February 24, 2021
+
+**Today's Progress**: Went through algorithm challenges solving for optimal time complexity. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A

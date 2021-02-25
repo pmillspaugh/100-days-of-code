@@ -207,3 +207,7 @@ Completed Eloquent JS chapter 8 on error handling and began chapter 9 on regular
 ### R1D51
 
 Worked on combination/permutation algorithm challenges. Wrapped up Eloquent JS chapter on regular expressions. Learned about measuring algorithm time complexity with Big O notation.
+
+### R1D52
+
+Went through algorithm challenges solving for optimal time complexity. 
