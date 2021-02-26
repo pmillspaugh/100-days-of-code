@@ -210,4 +210,8 @@ Worked on combination/permutation algorithm challenges. Wrapped up Eloquent JS c
 
 ### R1D52
 
-Went through algorithm challenges solving for optimal time complexity. 
+Went through algorithm challenges solving for optimal time complexity.
+
+### R1D53
+
+Learned/reviewed the prototype chain and OOP in JS.

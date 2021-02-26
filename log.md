@@ -525,3 +525,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 53: Thursday, February 25, 2021
+
+**Today's Progress**: Learned/reviewed the prototype chain and OOP in JS. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
