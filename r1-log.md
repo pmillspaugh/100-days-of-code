@@ -215,3 +215,7 @@ Went through algorithm challenges solving for optimal time complexity.
 ### R1D53
 
 Learned/reviewed the prototype chain and OOP in JS.
+
+### R1D54
+
+Reviewed / learned more about closure and lexical scope. Worked through coding challenges on closure and recursion.

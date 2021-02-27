@@ -535,3 +535,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 54: Friday, February 26, 2021
+
+**Today's Progress**: Reviewed / learned more about closure and lexical scope. Worked through coding challenges on closure and recursion.
+
+**Thoughts**: Still need practice on permutation and combination algorithms.
+
+**Link(s) to work**
+
+1. N/A
