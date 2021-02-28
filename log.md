@@ -545,3 +545,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 55: Saturday, February 27, 2021
+
+**Today's Progress**: Worked on project recreating Cards Against Humanity with only JavaScript. Continued to wrestle with combination algorithms.
+
+**Thoughts**: I need practice on structuring my code so that my functions are pure and the global namespace isn't polluted, but I can still maintain state.
+
+**Link(s) to work**
+
+1. N/A

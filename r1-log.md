@@ -219,3 +219,7 @@ Learned/reviewed the prototype chain and OOP in JS.
 ### R1D54
 
 Reviewed / learned more about closure and lexical scope. Worked through coding challenges on closure and recursion.
+
+### R1D55
+
+Worked on project recreating Cards Against Humanity with only JavaScript. Continued to wrestle with combination algorithms.
