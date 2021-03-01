@@ -223,3 +223,7 @@ Reviewed / learned more about closure and lexical scope. Worked through coding c
 ### R1D55
 
 Worked on project recreating Cards Against Humanity with only JavaScript. Continued to wrestle with combination algorithms.
+
+### R1D56
+
+Built MVP of Cards Against Humanity project using only JavaScript.

@@ -555,3 +555,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 56: Sunday, February 28, 2021
+
+**Today's Progress**: Built MVP of Cards Against Humanity project using only JavaScript.
+
+**Thoughts**: I should study best practices of validating user input.
+
+**Link(s) to work**
+
+1. N/A
