@@ -565,3 +565,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 57: Monday, March 1, 2021
+
+**Today's Progress**: More JavaScript coding challenges, focusing on recursion and closure.
+
+**Thoughts**: I am still hung up on combination algorithms. Trying to solve through hard learning without looking up a solution.
+
+**Link(s) to work**
+
+1. N/A
