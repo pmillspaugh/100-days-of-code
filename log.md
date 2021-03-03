@@ -575,3 +575,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 58: Tuesday, March 2, 2021
+
+**Today's Progress**: JS coding challenges
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A

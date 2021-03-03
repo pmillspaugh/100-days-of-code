@@ -231,3 +231,7 @@ Built MVP of Cards Against Humanity project using only JavaScript.
 ### R1D57
 
 More JavaScript coding challenges, focusing on recursion and closure.
+
+### R1D58
+
+JS coding challenges
