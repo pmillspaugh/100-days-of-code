@@ -235,3 +235,7 @@ More JavaScript coding challenges, focusing on recursion and closure.
 ### R1D58
 
 JS coding challenges
+
+### R1D59
+
+Worked on responsive design for non-prophet e-commerce site. Watched JSHP on asynchronous JS and OOP. 

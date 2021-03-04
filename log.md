@@ -585,3 +585,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 59: Wednesday, March 3, 2021
+
+**Today's Progress**: Worked on responsive design for non-prophet e-commerce site. Watched JSHP on asynchronous JS and OOP. 
+
+**Thoughts**: Learned about the callback queue and event loop in the JavaScript engine. Learned about web browser features like Timer and how JS interfaces with them. Completed asynchronous JS coding challenges. Reinforced OOP by going through JSHP again. Frontend Masters is awesome.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
