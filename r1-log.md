@@ -239,3 +239,15 @@ JS coding challenges
 ### R1D59
 
 Worked on responsive design for non-prophet e-commerce site. Watched JSHP on asynchronous JS and OOP. 
+
+### R1D60
+
+Added product image toggle functionality to non-prophet e-commerce app. Outlined what pages and functionality non-prophet needs. Learned about servers and NodeJS on Frontend Masters (Will Sentance course). Started reading Airbnb JavaScript Style Guide.
+
+### R1D61
+
+Added User and Cart classes to e-commerce app to group data and functionality together. Created fixed navbar that changes style when a user scrolls. Added about/mission blurb and shop links on home page. Continued with Will Sentance's course on servers and Node on Frontend Masters.
+
+### R1D62
+
+Continued learning about Node and servers on Frontend Masters. Started up coding challenges on Hacker Rank.

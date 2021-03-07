@@ -518,9 +518,9 @@
 
 ### Day 52: Wednesday, February 24, 2021
 
-**Today's Progress**: Went through algorithm challenges solving for optimal time complexity. 
+**Today's Progress**: Went through algorithm challenges solving for optimal time complexity.
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -528,9 +528,9 @@
 
 ### Day 53: Thursday, February 25, 2021
 
-**Today's Progress**: Learned/reviewed the prototype chain and OOP in JS. 
+**Today's Progress**: Learned/reviewed the prototype chain and OOP in JS.
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -580,7 +580,7 @@
 
 **Today's Progress**: JS coding challenges
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
@@ -588,10 +588,50 @@
 
 ### Day 59: Wednesday, March 3, 2021
 
-**Today's Progress**: Worked on responsive design for non-prophet e-commerce site. Watched JSHP on asynchronous JS and OOP. 
+**Today's Progress**: Worked on responsive design for non-prophet e-commerce site. Watched JSHP on asynchronous JS and OOP.
 
 **Thoughts**: Learned about the callback queue and event loop in the JavaScript engine. Learned about web browser features like Timer and how JS interfaces with them. Completed asynchronous JS coding challenges. Reinforced OOP by going through JSHP again. Frontend Masters is awesome.
 
 **Link(s) to work**
 
 1. https://github.com/pmillspaugh/non-prophet
+
+### Day 60: Thursday, March 4, 2021
+
+**Today's Progress**: Added product image toggle functionality to non-prophet e-commerce app. Outlined what pages and functionality non-prophet needs. Learned about servers and NodeJS on Frontend Masters (Will Sentance course). Started reading Airbnb JavaScript Style Guide.
+
+**Thoughts**: There is so much work to get a full stack e-commerce website up and running – inch by inch. Node and servers course on Frontend Masters is very helpful to understand the full picture of how an application works.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
+
+### Day 61: Friday, March 5, 2021
+
+**Today's Progress**: Added User and Cart classes to e-commerce app to group data and functionality together. Created fixed navbar that changes style when a user scrolls. Added about/mission blurb and shop links on home page. Continued with Will Sentance's course on servers and Node on Frontend Masters.
+
+**Thoughts**: non-prophet's UI is coming along nicely. Getting inspiration from Only NY, Kith, I love Ugly, OBEY, and Palace.
+
+**Link(s) to work**
+
+1. https://github.com/pmillspaugh/non-prophet
+
+### Day 62: Saturday, March 6, 2021
+
+**Today's Progress**: Continued learning about Node and servers on Frontend Masters. Started up coding challenges on HackerRank.
+
+**Thoughts**: Doing daily algorithm practice on Hacker Rank to start each morning.
+
+**Link(s) to work**
+
+1.
+
+### Day 63: Sunday, March 7, 2021
+
+**Today's Progress**: Daily algorithm practice on HackerRank.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1.
