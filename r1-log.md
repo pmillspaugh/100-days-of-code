@@ -251,3 +251,15 @@ Added User and Cart classes to e-commerce app to group data and functionality to
 ### R1D62
 
 Continued learning about Node and servers on Frontend Masters. Started up coding challenges on Hacker Rank.
+
+### R1D63
+
+Daily algorithm practice on HackerRank.
+
+### R1D64
+
+Daily algorithm practice on HackerRank. Ran into a difficult combinnation algorithm (substrings). Continued learning about Node and servers on Frontend Masters.
+
+### R1D65
+
+Wrestled with substrings algorithm on HackerRank. Setup a project server with Node to handle HTTP requests/responses. Completed Frontend Masters Node & servers course by Will Sentance.

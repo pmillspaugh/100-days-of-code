@@ -624,14 +624,34 @@
 
 **Link(s) to work**
 
-1.
+1. N/A
 
 ### Day 63: Sunday, March 7, 2021
 
 **Today's Progress**: Daily algorithm practice on HackerRank.
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**
 
-1.
+1. N/A
+
+### Day 64: Monday, March 8, 2021
+
+**Today's Progress**: Daily algorithm practice on HackerRank. Ran into a difficult combinnation algorithm (substrings). Continued learning about Node and servers on Frontend Masters.
+
+**Thoughts**: HackerRank has a huge repository of algorithm challenges. Will be great to get daily reps in to see lots of algorithms and warm up my brain.
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 65: Tuesday, March 9, 2021
+
+**Today's Progress**: Wrestled with substrings algorithm on HackerRank. Setup a project server with Node to handle HTTP requests/responses. Completed Frontend Masters Node & servers course by Will Sentance.
+
+**Thoughts**: Substrings/subsets algorithms have been a brick wall for me.
+
+**Link(s) to work**
+
+1. N/A
