@@ -655,3 +655,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 66: Wednesday, March 10, 2021
+
+**Today's Progress**: Daily algo practice on HackerRank. Made progress on FCC Issue Tracker project. Started Josh Comeau's CSS for JavaScript Developers course – completed the first module.
+
+**Thoughts**: Have a working solution for the substring challenge on HackerRank, but it times out with large inputs. I'm excited about the CSS-for-JS course. Building a strong grasp of CSS will be a worthwhile investment.
+
+**Link(s) to work**
+
+1. N/A

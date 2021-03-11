@@ -263,3 +263,7 @@ Daily algorithm practice on HackerRank. Ran into a difficult combinnation algori
 ### R1D65
 
 Wrestled with substrings algorithm on HackerRank. Setup a project server with Node to handle HTTP requests/responses. Completed Frontend Masters Node & servers course by Will Sentance.
+
+### R1D66
+
+Daily algo practice on HackerRank. Made progress on FCC Issue Tracker project. Started Josh Comeau's CSS for JavaScript Developers course – completed the first module.
