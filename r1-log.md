@@ -267,3 +267,7 @@ Wrestled with substrings algorithm on HackerRank. Setup a project server with No
 ### R1D66
 
 Daily algo practice on HackerRank. Made progress on FCC Issue Tracker project. Started Josh Comeau's CSS for JavaScript Developers course – completed the first module.
+
+### R1D67
+
+Resolved an issue in my FCC issue tracker project relating to ObjectID in MongoDB. Daily algorithm practice on HackerRank. Did React Intro v6 on Frontend Masters taught by Brian Holt.

@@ -665,3 +665,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 67: Thursday, March 11, 2021
+
+**Today's Progress**: Resolved an issue in my FCC issue tracker project relating to ObjectID in MongoDB. Daily algorithm practice on HackerRank. Did React Intro v6 on Frontend Masters taught by Brian Holt.
+
+**Thoughts**: React course was helpful for learning a bit about many tangential topics like ESLint, Babel, and Parcel.
+
+**Link(s) to work**
+
+1. N/A
