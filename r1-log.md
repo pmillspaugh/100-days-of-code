@@ -271,3 +271,7 @@ Daily algo practice on HackerRank. Made progress on FCC Issue Tracker project. S
 ### R1D67
 
 Resolved an issue in my FCC issue tracker project relating to ObjectID in MongoDB. Daily algorithm practice on HackerRank. Did React Intro v6 on Frontend Masters taught by Brian Holt.
+
+### R1D68
+
+Continued with Brian Holt's React course and started Linux & Command Line course. Learned about operating systems and set up Ubuntu VM using Multipass and VirtualBox. Learned about shells, emulators, and useful bash commands.

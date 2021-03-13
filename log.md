@@ -675,3 +675,13 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 68: Friday, March 12, 2021
+
+**Today's Progress**: Continued with Brian Holt's React course and started Linux & Command Line course. Learned about operating systems and set up Ubuntu VM using Multipass and VirtualBox. Learned about shells, emulators, and useful bash commands.
+
+**Thoughts**: Glad to be getting comfortable with the command line. It is helping me understand the full picture of the OS and computer internals.
+
+**Link(s) to work**
+
+1. N/A
