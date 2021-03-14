@@ -685,3 +685,14 @@
 **Link(s) to work**
 
 1. N/A
+
+### Day 69: Saturday, March 13, 2021
+
+**Today's Progress**: Continued with Brian Holt's Linux & Command Line course. Learned about input/output streams and pipes; users, groups, and permissions.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. N/A
+
