@@ -275,3 +275,10 @@ Resolved an issue in my FCC issue tracker project relating to ObjectID in MongoD
 ### R1D68
 
 Continued with Brian Holt's React course and started Linux & Command Line course. Learned about operating systems and set up Ubuntu VM using Multipass and VirtualBox. Learned about shells, emulators, and useful bash commands.
+
+### R1D69
+
+Continued with Brian Holt's Linux & Command Line course. Learned about input/output streams and pipes; users, groups, and permissions.
+
+### R1D70
+

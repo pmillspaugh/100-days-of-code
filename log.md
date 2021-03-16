@@ -696,3 +696,12 @@
 
 1. N/A
 
+### Day 70: Sunday, March 14, 2021
+
+**Today's Progress**: Continued Linux & CLI course. Learned about environments/processes in bash, exit codes, subcommands, ssh, sftp, Wget, cURL, apt, snaps, bash scripting, and cron.
+
+**Thoughts**: Glad to have completed a thorough introduction to Linus and the command line.
+
+**Link(s) to work**
+
+1. N/A
